@@ -1,0 +1,29 @@
+/* định dạng toàn bộ trang */
+body{
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+}
+
+/* pading: khoảng cách từ nội dung đến viền */
+h1{
+    background-color: rgb(63, 63, 63);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size:40;
+    text-align: center;
+    padding: 60px;
+}
+
+nav{
+     background-color: rgb(223, 217, 217);
+    text-align: center;
+    padding: 10px;
+}
+
+nav a{
+    color: rgb(120, 117, 117);
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 20px;
+}

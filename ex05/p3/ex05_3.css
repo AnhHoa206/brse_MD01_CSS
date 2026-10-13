@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+padding: auto;
+box-sizing: border-box;  
+}
+h1{
+    color: orange;
+    font-size: 30px;
+}
+.blue{
+    color: blue;
+    font-size: 28px;
+}
+.red{
+    color: red;
+    font-size: 28px;
+}
+.yellow{
+    background-color: rgb(255, 252, 191);
+        color: black;
+        text-align: left;
+        border-left: 10px solid orange;
+        font-size: 28px;
+        padding: 30px 40px;
+}
+.tip{
+    color: orange;
+    font-weight: bolder;
+}

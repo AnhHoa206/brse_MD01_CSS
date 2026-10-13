@@ -1,0 +1,22 @@
+*{
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+margin: 20px;
+}
+h1{
+    background-color: rgb(102, 100, 100);
+    color: rgb(229, 234, 237);
+font-size: 30px;
+}
+p{
+    font-size: 20px;
+    margin-top: 20px;
+}
+img{
+    width: 200;
+    height: 300;
+}
+.box1{
+    font-weight: bold;
+    margin-top: 15px;
+}
